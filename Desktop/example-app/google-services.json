@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "riarafoodapp",
+  "private_key_id": "bf726f734c12f775acb635fc89d694281fb17dce",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCxOaJ7jHfselwR\n0AO6qnPw25Bf8QQExMlXJ/XBaTgEq4EqUXO9rGLCjZqFYQ7ZWYSSBfMnXJZ92m8f\nhWX4oqSNbwXojTwOsqvzjCSrCCJ/ui9VHQfcKPaNuRNWPFz8W0mfplvPhkuExk0B\nxx5Zm6sM1vRylqyqdYtvCmktlaojSTBWTnPe9BSHOPCGQdXOtwuKB52dK7vLTWJA\nwtD6Ma5lVv80MB90A2Y+ig6Q4zGm8mUi/RWO5jmratjZDQKxZopRiynvEahlZA0P\n1TtBzD7OFJDGfLMl7UNouqycEWAdcl0FtIrfgm9FKc4lqdHhxjSi5NsRbGVS2oCF\nWv5Od/prAgMBAAECggEAAWw8UP3ka3AHeFbad6sIp4nwSlu//PAZOJAMkJw6WsKs\nAl2t5TJb0AvBjkBJFYTECLLv0Kk5xcksJlsP9BXEeLbH5O8Oexcn1ohIfxQoo+NM\nn/sEr0den+4UTYUTZghmKDOItN+qIrAI3oTtbrwpoT6dru1Avwvf9x/SalhFrmcc\nurgun+i4Mwz4LczXgXK9iGCBVlJ0KgVEhp+NAfL3c89A3d1DTycbZpjBuemVZSKw\nsW56hF43ZLlpBt3PI7ho7S18oXSEo7MQ28jy0nMoAkYSoCXweOSNs1CDruW/mhMv\np8D4Xf7ce/X6Kml/CS6fpTVB42wqwEA0hwXDkQxYAQKBgQDnSmFwVvZZ3FziA313\nLTitJCM0fIggczh2eLMpZdpFkorUvIGcUDPCkzaJGRWUVxxy3YqgQpjQO3YZ7w1x\nkWuSAdUvSxNTLGOFnKiE/X6YUgIfuAnTFqM+9sD3346jAwKXseTraM21CwXdIex8\n/i4sJK9BMzJfUue30EpMqLtMAQKBgQDEKJs+SoRiS3swZ3Cr7Bh6fex5RJtyPgOx\n7xZwAeZDQjlQFXj5zBjo+XJdc/fvQpZt7/AEARW2aYSKgk1GSNyycorEuu2soMhf\naoKtPtKbA9oegwSKk40m6omoyf5t8w8Tn4yOzF5Nq/q7GFbvoe9ZsP95+vnr8Hgj\nyq37sic2awKBgQDXE9zeSY/WakvZRKOUgnHU1+kA8tjnTB3yVTVNxtAdqDL/trfU\nMuSfCKRLAw+FHShwTEGP274czV56qUjYFgFxCdFDpE25J2r4oYA4Az6IyKH++vXv\n3Ho7n9w75CDQx4jOpXeZzaCUvUZbpyMx7G/lTsvGFqS97etajA+7j6B0AQKBgQCD\nZZ/4LfpXzbALUH8M6u3Kv6cz5F0sPZZEDp+9D8iqrSWvG3MaATl+dfnB1/jw8G3L\n3rmsNP3SXwRFs9sHha8wacHC3mRvCpSuNa6rVjXFWOM3JRRZr1USCHGF+yjPhc1H\nm8yPqx5QcS9XPIqfop2uOv4nO5NGFKKldxLsUv4pWQKBgQCDjK2Q1tIc/0nyEFo4\nAdlO55008HqsKXL9r7KfZvuIp961EtdU2cVbjdZOm+fiI2UPMO9wXKooBRya/Nn/\nDQtH6MH8ojR/bHFYNt2lgdt+eq5m5v/pbVEPB1HWv1qinnJQ0EoGBYUSEGoB8Jyo\n/bZQmE/KdId31rFbxiLEJFMDog==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-2i60n@riarafoodapp.iam.gserviceaccount.com",
+  "client_id": "104409384097084679049",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-2i60n%40riarafoodapp.iam.gserviceaccount.com"
+}
